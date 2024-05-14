@@ -24,10 +24,10 @@ Welcome to our online haven for veterans, designed to support and enhance your d
 
 ![alt text](LOGO.webp)
 
+## Main-Page 
+![alt text](image.png)
+
+
 
 ## Get My Demo Video Link
 [![Demo Video](https://example.com/your-image.png)](https://www.youtube.com/watch?v=LI7W1GFMf9M)
-
-
-## Main-Page 
-![alt text](image.png)

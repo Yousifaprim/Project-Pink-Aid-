@@ -1,11 +1,3 @@
-# CASExplorer 
-
-<!--
-![GitHub Logo](/CASExplorer.png) 
--->
-![Alt Text](/demo.gif)
-
-##
 
 ## Overview
 
@@ -15,25 +7,16 @@ Chatbot that assists Homeless Veterans 24/7 in exploring guidance, so they can h
 
 **Project-Pink-Aid** (*Pronounced as “case explorer”*):
 
-The **“Project-Pink-Aid”** part of our virtual assistant name stands for the various sections provided in our virtual assistants for Homeless Vets to explore: **C**areer, **G**dance, and **S**elf exploration. The terms CASE and Explorer from how an individual, a case, will explore the different aspects within our chatbot. There could be many different ways Homeless Vets can navigate the virtual assistant for their own needs, hence the name CASExplorer.
+The **“Project-Pink-Aid”** portion of our virtual assistant's name refers to the several areas that are available for Homeless Vets to peruse: **S** Self-exploration, **G** dancing, and **C**areer. We are here to help you discover the many features of our chatbot as an individual. The moniker Project-Pink-Aid comes from the many ways that homeless veterans might use the virtual assistant to suit their individual requirements.
 
 
 ## Why CASExplorer? 
 
-Educational institutions are one of the most affected areas that are transitioning to virtual learning to limit the spread of the COVID-19. The pandemic exacerbates many students’ anxiety about their academic careers and futures. Career advisors can provide one-on-one support for students to achieve their goals, however, there are not enough advisors for the thousands of students at a university. The move to online services is no different; virtual appointments with career counselors are still scarce due to high demand. In addition, career counselors are focused on providing general career advice to students rather than specific advice because their audience are students coming from a variety of majors. 
+I noticed that homeless veterans in my community weren't getting much help, so I decided to do something about it. I created a chatbox that offers real help. Veterans can ask it questions like where to find job training and can even get help translating things into different languages.
 
-Existing chatbot solutions for education do some form of the following:
-- Answers general questions about a specific university e.g. “When will I receive financial aid?”
-- Quizzes students on specific subject e.g. science
+Our chatbox also helps veterans improve their resumes, making it easier for them to find jobs.
 
-Therefore, our prototype aims to take a different approach to: 
-- Provide career assistance in STEM 24/7
-- Assist students who are unsure about the STEM major to study
-- Assist students who are curious about switching to a STEM major
-- Filter out information from Google giving relevant results on STEM 
-- Be a universal chatbot for all college students, where information is not centered on a single school
-
-Most importantly, our prototype aims to provide virtual guidance and support to students, so they can be more confident with their major and career choices. In the future, we hope to expand the chatbot to other fields of study.
+Our goal is simple: Help Lives, One Vet at a Time. We're using this chatbox to make a big difference for veterans, giving them the support they need to succeed.
 
 ## Our Solution
 

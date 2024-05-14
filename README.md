@@ -23,7 +23,7 @@ Our goal is simple: Help Lives, One Vet at a Time. We're using this chatbox to m
 Welcome to our online haven for veterans, designed to support and enhance your day-to-day life with easy-to-use digital tools. Our platform includes features allowing you to get instant answers to your questions. For those who prefer listening over reading, our Text-to-Speech function converts written content into clear, spoken audio. Additionally, our Audio Transcription service ensures that spoken information is not lost, providing you with written records of conversations and audio materials. Explore our features today and experience how they can assist you in navigating daily challenges with ease and confidence.
 
 ## See Our Demo Video
-[![Watch the video](https://youtu.be/LI7W1GFMf9M)]
+<iframe width="678" height="341" src="https://www.youtube.com/embed/LI7W1GFMf9M" title="Project-Pink-Aid" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
 ## Road Map
 ![GitHub Logo](/roadmap.jpg) 

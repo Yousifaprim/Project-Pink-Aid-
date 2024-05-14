@@ -5,7 +5,7 @@ Chatbot that assists Homeless Veterans 24/7 in exploring guidance, so they can h
 
 ## Project-Pink-Aid: What is it?
 
-**Project-Pink-Aid** (*Pronounced as “case explorer”*):
+**Project-Pink-Aid** (*Pronounced as “Project-Pink-Aid”*):
 
 The **“Project-Pink-Aid”** portion of our virtual assistant's name refers to the several areas that are available for Homeless Vets to peruse: **S** Self-exploration, **G** dancing, and **C**areer. We are here to help you discover the many features of our chatbot as an individual. The moniker Project-Pink-Aid comes from the many ways that homeless veterans might use the virtual assistant to suit their individual requirements.
 

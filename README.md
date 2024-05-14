@@ -22,6 +22,9 @@ Our mission is straight forward: Help Lives, One Vet at a Time. By leveraging th
 
 Welcome to our online haven for veterans, designed to support and enhance your day-to-day life with easy-to-use digital tools. Our platform includes features allowing you to get instant answers to your questions. For those who prefer listening over reading, our Text-to-Speech function converts written content into clear, spoken audio. Additionally, our Audio Transcription service ensures that spoken information is not lost, providing you with written records of conversations and audio materials. Explore our features today and experience how they can assist you in navigating daily challenges with ease and confidence.
 
+![alt text](LOGO.webp)
+
+
 ## Get My Demo Video Link
 [![Demo Video](https://example.com/your-image.png)](https://www.youtube.com/watch?v=LI7W1GFMf9M)
 

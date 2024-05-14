@@ -14,11 +14,9 @@ We're here to help veterans harness the full potential of our chatbot, ensuring 
 
 ## Why Project-Pink-Aid? 
 
-I noticed that homeless veterans in my community weren't getting much help, so I decided to do something about it. I created a chatbox that offers real help. Veterans can ask it questions like where to find job training and can even get help translating things into different languages.
+In my community, I saw that homeless veterans were struggling without adequate support. Motivated to make a difference, my team and I developed a chatbox designed to provide real-life help. This tool allows veterans to easily find essential services such as guidance and support, job training programs and language translation assistance.
 
-Our chatbox also helps veterans improve their resumes, making it easier for them to find jobs.
-
-Our goal is simple: Help Lives, One Vet at a Time. We're using this chatbox to make a big difference for veterans, giving them the support they need to succeed.
+Our mission is straight forward: Help Lives, One Vet at a Time. By leveraging this chatbox, we aim to make a big impact, offering the vital support veterans need to succeed.
 
 ## Our Solution
 

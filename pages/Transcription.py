@@ -2,7 +2,7 @@ import streamlit as st
 from openai import OpenAI
 from pathlib import Path
 
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=""<YOUR_OPENAI_API_KEY>"")
 
 # Set the page configuration
 st.set_page_config(

@@ -9,13 +9,13 @@
 
 ## Overview
 
-Chatbot that assists college students 24/7 in exploring STEM majors and careers, so they can be more confident in their decisions. 
+Chatbot that assists Homeless Veterans 24/7 in exploring guidance, so they can help with life struggles they have. 
 
 ## CASExplorer: What is it?
 
-**CASExplorer** (*Pronounced as “case explorer”*):
+**Project-Pink-Aid** (*Pronounced as “case explorer”*):
 
-The **“C-A-S”** part of our virtual assistant name stands for the various sections provided in our virtual assistants for students to explore: **C**areer, **A**cademic, and **S**elf exploration. The terms CASE and Explorer stem from how an individual, a case, will explore the different aspects within our chatbot. There could be many different ways students can navigate the virtual assistant for their own needs, hence the name CASExplorer.
+The **“Project-Pink-Aid”** part of our virtual assistant name stands for the various sections provided in our virtual assistants for Homeless Vets to explore: **C**areer, **G**dance, and **S**elf exploration. The terms CASE and Explorer from how an individual, a case, will explore the different aspects within our chatbot. There could be many different ways Homeless Vets can navigate the virtual assistant for their own needs, hence the name CASExplorer.
 
 
 ## Why CASExplorer? 
@@ -37,10 +37,7 @@ Most importantly, our prototype aims to provide virtual guidance and support to 
 
 ## Our Solution
 
-We created a prototype aimed at solving the issue of high demand in university career counseling appointments, where we leveraged IBM Watson Assistant. It is a chatbot that gathers and provides users with specific information from the internet for the users’ needs, in our case, information to help students explore college majors.
-There are three main parts of our chatbot, which are self exploration, academic exploration, and career exploration. Users can freely navigate to the section they would like to explore. In the self-exploration part, we use a personality test to analyze an individual’s personality. From the users’ results, our chatbot will give a detailed recommendation on the potential careers suitable for them. 
-Next in the academic exploration part, users can learn about the major they are interested in and get the required skills for that major. Information regarding major popularity, major role, future projection, and graduation rate are provided. Regarding the skills associated with each major, some resources reviewed by the creators of the chatbot will be provided for users to check out. 
-In the last section, called career exploration, users learn more about the potential tracks of the major they are interested in. In addition, the section shows students some professional success stories regarding the specific major area, and allows users to connect with those in the story, providing users with a more enriching experience.
+Welcome to our online haven for veterans, designed to support and enhance your day-to-day life with easy-to-use digital tools. Our platform includes features allowing you to get instant answers to your questions. For those who prefer listening over reading, our Text-to-Speech function converts written content into clear, spoken audio. Additionally, our Audio Transcription service ensures that spoken information is not lost, providing you with written records of conversations and audio materials. Explore our features today and experience how they can assist you in navigating daily challenges with ease and confidence.
 
 ## See Our Demo Video
 [![Watch the video](https://img.youtube.com/vi/SaaxIlViHTk/hqdefault.jpg)](https://youtu.be/SaaxIlViHTk) 

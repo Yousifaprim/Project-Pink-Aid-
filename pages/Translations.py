@@ -81,7 +81,7 @@ def load_css():
 load_css()
 
 # Initialize OpenAI client
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=""<YOUR_OPENAI_API_KEY>"")
 
 # Optional: Adjust this to your actual function to perform the translation
 def translate(text, source_language, target_language):

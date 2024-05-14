@@ -3,7 +3,7 @@ from openai import OpenAI
 from pathlib import Path
 
 # Setup the OpenAI client
-client = OpenAI(api_key="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")
+client = OpenAI(api_key=""<YOUR_OPENAI_API_KEY>"")
 speech_file_path = Path(__file__).parent / "speech.mp3"
 
 # Define the function to get a completion from OpenAI

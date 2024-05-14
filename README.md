@@ -31,3 +31,4 @@ Welcome to our online haven for veterans, designed to support and enhance your d
 
 ## Get My Demo Video Link
 [![Demo Video](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=LI7W1GFMf9M)
+[![Demo Video](https://img.youtube.com/vi/LI7W1GFMf9M/0.jpg)](https://www.youtube.com/watch?v=LI7W1GFMf9M)

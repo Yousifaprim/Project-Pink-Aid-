@@ -4,8 +4,6 @@ Our chatbot is here to help homeless veterans any time they need it. It gives ad
 
 ## Project-Pink-Aid: What is it?
 
-**Project-Pink-Aid** 
-
 Project-Pink-Aid isn't just a name—it's our commitment to supporting homeless veterans through a virtual assistant tailored to their unique needs.
 
 Self-exploration: helping veterans understand their own desires and goals.

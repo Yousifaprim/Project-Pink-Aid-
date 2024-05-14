@@ -23,7 +23,7 @@ Our goal is simple: Help Lives, One Vet at a Time. We're using this chatbox to m
 Welcome to our online haven for veterans, designed to support and enhance your day-to-day life with easy-to-use digital tools. Our platform includes features allowing you to get instant answers to your questions. For those who prefer listening over reading, our Text-to-Speech function converts written content into clear, spoken audio. Additionally, our Audio Transcription service ensures that spoken information is not lost, providing you with written records of conversations and audio materials. Explore our features today and experience how they can assist you in navigating daily challenges with ease and confidence.
 
 ## Get My Demo Video Link
-<iframe width="560" height="315" src="https://www.youtube.com/embed/LI7W1GFMf9M?si=_MFGjPrhmOl0LZFH? autoplay=1&mute=1" title="YouTube video player"  allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://www.youtube.com/watch?v=LI7W1GFMf9M&t=29s)]
 
 ## Main-Page 
 ![alt text](image.png)

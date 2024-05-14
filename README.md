@@ -3,14 +3,14 @@
 
 Chatbot that assists Homeless Veterans 24/7 in exploring guidance, so they can help with life struggles they have. 
 
-## CASExplorer: What is it?
+## Project-Pink-Aid: What is it?
 
 **Project-Pink-Aid** (*Pronounced as “case explorer”*):
 
 The **“Project-Pink-Aid”** portion of our virtual assistant's name refers to the several areas that are available for Homeless Vets to peruse: **S** Self-exploration, **G** dancing, and **C**areer. We are here to help you discover the many features of our chatbot as an individual. The moniker Project-Pink-Aid comes from the many ways that homeless veterans might use the virtual assistant to suit their individual requirements.
 
 
-## Why CASExplorer? 
+## Why Project-Pink-Aid? 
 
 I noticed that homeless veterans in my community weren't getting much help, so I decided to do something about it. I created a chatbox that offers real help. Veterans can ask it questions like where to find job training and can even get help translating things into different languages.
 
